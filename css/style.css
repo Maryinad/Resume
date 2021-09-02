@@ -1,0 +1,232 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background-color: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+   font-family: Montserrat;
+}
+
+.wrapper {
+   background: #fff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+
+}
+
+.sidebar { 
+   background-color: #1e2939;
+   width: 370px;
+   height: 1319px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+}
+
+.my-photo {
+   width: 370px;
+   height: 354px;
+}
+.about-me-container {
+   padding-top: 90px;
+   padding-bottom: 90px;
+   padding-left: 108px;
+   padding-right: 108px;
+}
+.contact-container {
+   margin-top: 60px;
+   margin-left: 40px;
+   margin-bottom: 60px;
+}
+.contact-title {
+   font-size: 22px;
+   font-weight: 700;
+   line-height: 24px;
+   color: #ffffff;
+   padding-bottom: 10px;
+}
+.contact-link {
+   font-size: 14px;
+   font-weight: 400;
+   color: #434c5a;
+}
+.contact-link-type {
+   font-size: 14px;
+   font-weight: 700;
+   color: #fff;
+   margin-right: 10px;
+}
+.tech-skills-container {
+   margin-left: 40px;
+   margin-top: 54px;
+   margin-bottom: 40px;
+}
+.tech-skills-title {
+   font-size: 22px;
+   font-weight: 700;
+   font-style: normal;
+   margin-bottom: 20px;
+   color: #ffffff;
+}
+.tech-skills-item {
+   font-size: 14px;
+   font-weight: 400;
+   font-style: normal;
+   line-height: 24px;
+   color: #ff6b08;
+}
+.tech-skills-text {
+   margin-bottom: 13px;
+   font-size: 14px;
+   font-weight: 400;
+   font-style: normal;
+   color: #ffffff;
+}
+.soft-skills-container {
+   margin-left: 40px;
+   margin-top: 52px;
+}
+.soft-skills-title {
+   font-size: 22px;
+   font-weight: 700;
+   font-style: normal;
+   color: #ffffff;
+   margin-bottom: 17px;
+}
+.soft-skills-item {
+   font-size: 14px;
+   font-weight: 400;
+   font-style: normal;
+   line-height: 24px;
+   color: #ff6b08;
+}
+.soft-skills-text {
+   margin-bottom: 13px;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+.about-me-container {
+   margin-top: 108px;
+   margin-bottom: 107px;
+   margin-left: 90px;
+}
+.proffesion {
+font-size: 14px;
+font-weight: 700;
+font-style: normal;
+color: #000000;
+}
+.name {
+   font-size: 45px;
+   font-weight: 700;
+   font-style: normal;
+   margin-top: 24px;
+   color: #000000;
+}
+.about-me-text {
+   font-size: 14px;
+   font-weight: 400;
+   margin-top: 24px;
+   line-height: 24px;
+   color: #000000;
+  }
+
+.about-me-title {
+   font-size: 22px;
+   font-weight: 700;
+   font-style: normal;
+   color: #000000;
+   margin-bottom: 12px;
+}
+.projects-link {
+   font-size: 14px;
+   font-weight: 400;
+   font-style: normal;
+   color: #595959;
+}
+ .tech-name {
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    color: #595959;
+ }  
+ .dots {
+    color: #a8a8a8;
+    font-weight: 100;
+ }
+ .projects-item {
+    font-weight: 700;
+    margin-left: 17px;
+ }
+ .projects-container {
+    margin-bottom: 55px;
+ }
+
+ .proffesional-title {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+ }
+ .proffesional-company {
+    color: #ff7011;
+ }
+
+ .proffesional-time {
+    color: #a8a8a8;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 14px;
+ }
+ 
+ .proffesional-divided {
+    color: black;
+ }
+
+ .proffesional-duties {
+    margin-top: 14px;
+    margin-bottom: 30px;
+ }
+
+ .proffesional-duties-item {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+ }
+
+ .university-name {
+   color: #ff7011;
+   margin-bottom: 14px;
+   margin-top: 14px;
+ }
+
+ 
+ .educational-divided {
+    color: black;
+ }
+ .educational-title {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+ }
+
+ .education-time {
+    color: #a8a8a8;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+   margin-bottom: 15px;
+ }
